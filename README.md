@@ -51,7 +51,7 @@ with open("my_company_ca.cer", "wb") as f:
 print(cert.public_bytes(serialization.Encoding.PEM).decode('utf-8'))
 ```
 output::
-```css
+```bash
 -----BEGIN CERTIFICATE-----
 MIIDbzCCAlegAwIBAgIUS8qdoegUib1WIMGdH31ZJ+o8F3AwDQYJKoZIhvcNAQEL
 BQAwZzELMAkGA1UEBhMCVVMxEzARBgNVBAgMCkNhbGlmb3JuaWExFjAUBgNVBAcM
