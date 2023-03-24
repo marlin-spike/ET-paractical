@@ -1,4 +1,4 @@
 # ET-paractical
 
 
-download cirtificate [here](https://github.com/marlin-spike/ET-paractical/raw/main/my_company_ca.cer).
+download  CA certificate [here](https://github.com/marlin-spike/ET-paractical/raw/main/my_company_ca.cer).
