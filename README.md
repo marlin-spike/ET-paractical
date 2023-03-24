@@ -76,6 +76,8 @@ MxiRmo5nW+TKmVUTJE+ABAQhavadQ4YNxJRN3V0dFkEzhz7B5jxQvIoSLY3xU+Gs
 ```
 **it will also create the *my_company_ca.cer* Certificate file**
 
+[for more](https://ospkibook.sourceforge.net/docs/OSPKI-2.4.7/OSPKI-html/sample-priv-key.htm).
+
 
 Sample CA Certificate in TXT formate::
 ```yaml
@@ -146,6 +148,5 @@ Certificate:
         bf:ee:f4:0c:7d:77:46:b1:1a:d7:34:64:46:9d:7f:af:58:36:
         77:ff:35:88:d2:3a:03:b4:29:0d:9e:a1:29:56:78:60:fe:00:
         15:98:7a:17
-    ```
-    
-    [for more](https://ospkibook.sourceforge.net/docs/OSPKI-2.4.7/OSPKI-html/sample-priv-key.htm)
+        ```
+        
