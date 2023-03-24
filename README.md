@@ -51,7 +51,7 @@ with open("my_company_ca.cer", "wb") as f:
 print(cert.public_bytes(serialization.Encoding.PEM).decode('utf-8'))
 ```
 output::
-
+```python
 -----BEGIN CERTIFICATE-----
 MIIDbzCCAlegAwIBAgIUS8qdoegUib1WIMGdH31ZJ+o8F3AwDQYJKoZIhvcNAQEL
 BQAwZzELMAkGA1UEBhMCVVMxEzARBgNVBAgMCkNhbGlmb3JuaWExFjAUBgNVBAcM
@@ -73,5 +73,5 @@ Lv4M0VifH0ImRnCbUpaeGTOFV6N+Q088bF99p1QqZjNRzJnEJCpqaaWxPOGOQt6x
 MxiRmo5nW+TKmVUTJE+ABAQhavadQ4YNxJRN3V0dFkEzhz7B5jxQvIoSLY3xU+Gs
 2aFk2+ZmDwQ0SHjH6ikytgdEWw==
 -----END CERTIFICATE-----
-
+```
 **it will also create the *my_company_ca.cer* Certificate file**
